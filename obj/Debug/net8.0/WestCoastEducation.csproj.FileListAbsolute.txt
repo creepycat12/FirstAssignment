@@ -1,0 +1,14 @@
+/Users/olgababkina/FirstAssignment/WestCoastEducation/obj/Debug/net8.0/WestCoastEducation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olgababkina/FirstAssignment/WestCoastEducation/obj/Debug/net8.0/WestCoastEducation.AssemblyInfoInputs.cache
+/Users/olgababkina/FirstAssignment/WestCoastEducation/obj/Debug/net8.0/WestCoastEducation.AssemblyInfo.cs
+/Users/olgababkina/FirstAssignment/WestCoastEducation/obj/Debug/net8.0/WestCoastEducation.csproj.CoreCompileInputs.cache
+/Users/olgababkina/FirstAssignment/WestCoastEducation/bin/Debug/net8.0/WestCoastEducation
+/Users/olgababkina/FirstAssignment/WestCoastEducation/bin/Debug/net8.0/WestCoastEducation.deps.json
+/Users/olgababkina/FirstAssignment/WestCoastEducation/bin/Debug/net8.0/WestCoastEducation.runtimeconfig.json
+/Users/olgababkina/FirstAssignment/WestCoastEducation/bin/Debug/net8.0/WestCoastEducation.dll
+/Users/olgababkina/FirstAssignment/WestCoastEducation/bin/Debug/net8.0/WestCoastEducation.pdb
+/Users/olgababkina/FirstAssignment/WestCoastEducation/obj/Debug/net8.0/WestCoastEducation.dll
+/Users/olgababkina/FirstAssignment/WestCoastEducation/obj/Debug/net8.0/refint/WestCoastEducation.dll
+/Users/olgababkina/FirstAssignment/WestCoastEducation/obj/Debug/net8.0/WestCoastEducation.pdb
+/Users/olgababkina/FirstAssignment/WestCoastEducation/obj/Debug/net8.0/WestCoastEducation.genruntimeconfig.cache
+/Users/olgababkina/FirstAssignment/WestCoastEducation/obj/Debug/net8.0/ref/WestCoastEducation.dll
